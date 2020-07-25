@@ -1,5 +1,5 @@
 <p align="center">
-  <img crs="https://media2.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
+  <img src="https://media2.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" alt="Say yes to code" />
 </p>
 <h2 align="center">Hi <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif">, my name is Arthur</h2>
 <p align="center">
