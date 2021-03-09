@@ -1,5 +1,2 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurseredaa" alt="foush's Github stats">
-</p><br>
-
-
+# 👋🏻 Hi, my name is **Arthur Sereda**!
+## I'm beginner **Frontend developer(ReactJS)** from Ukraine.
